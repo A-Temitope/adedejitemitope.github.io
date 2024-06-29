@@ -1,4 +1,6 @@
 title: Adedeji Temitope Ibukun 
 #logo:
 description: text below image
-theme:
+remote_theme: pages-themes/architect@v0.2.0
+#plugins:
+google_analytics: [Your Google Analytics tracking ID]
